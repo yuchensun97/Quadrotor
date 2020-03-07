@@ -1,0 +1,19 @@
+{
+    "dijkstra": {
+        "time": 0.004,
+        "path_length": Infinity,
+        "reached_start": false,
+        "reached_goal": false,
+        "no_collision": false,
+        "is_optimal": true
+    },
+    "astar": {
+        "time": 0.0,
+        "path_length": Infinity,
+        "reached_start": false,
+        "reached_goal": false,
+        "no_collision": false,
+        "is_optimal": true
+    },
+    "map_nodes": 64
+}

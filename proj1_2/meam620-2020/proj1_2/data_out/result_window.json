@@ -1,0 +1,19 @@
+{
+    "dijkstra": {
+        "time": 9.212,
+        "path_length": 30.715,
+        "reached_start": true,
+        "reached_goal": true,
+        "no_collision": true,
+        "is_optimal": true
+    },
+    "astar": {
+        "time": 8.81,
+        "path_length": 30.715,
+        "reached_start": true,
+        "reached_goal": true,
+        "no_collision": true,
+        "is_optimal": true
+    },
+    "map_nodes": 37500
+}
