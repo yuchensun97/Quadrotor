@@ -1,0 +1,4 @@
+cvxopt
+matplotlib
+numpy
+scipy
