@@ -2,8 +2,14 @@
 This project is about quadrotor. Phase 1 contains detailed information about non-linear controller and flatteness, Dijstra and A* implementation in 3D environment with obstacles, minimum jerk trajectory.  
 
 **What's next?**  
-Perception, mapping and SLAM
+Perception, mapping and SLAM  
 
+To run this project on your local end, please make sure you have install the following package:\\
+* numpy
+* cvxopt
+* matplotlib
+* scipy
+* timeout_decorator
 ## Phase 1_1
 * **se3_control.py**: non-linear controller with flat output. Author@ Yuchen Sun
 * **waypoint_traj.py**: constant velocity trajecory. Author@ Yuchen Sun
