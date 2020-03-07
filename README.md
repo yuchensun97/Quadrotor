@@ -4,7 +4,7 @@ This project is about quadrotor. Phase 1 contains detailed information about non
 **What's next?**  
 Perception, mapping and SLAM  
 
-To run this project on your local end, please make sure you have install the following package:\\
+To run this project on your local end, please make sure you have install the following package:  
 * numpy
 * cvxopt
 * matplotlib
