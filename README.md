@@ -1,6 +1,9 @@
 # Advanced-Robotics
 This project is about quadrotor. Phase 1 contains detailed information about non-linear controller and flatteness, Dijstra and A* implementation in 3D environment with obstacles, minimum jerk trajectory.  
 
+The performance of quadrotor in phase 1 in real lab is shown as below.  
+**待办**
+
 **What's next?**  
 Perception, mapping and SLAM  
 
