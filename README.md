@@ -1,5 +1,7 @@
 # Advanced-Robotics
-This project is about quadrotor. Phase 1 contains detailed information about non-linear controller and flatteness, Dijstra and A* implementation in 3D environment with obstacles, minimum jerk trajectory.  
+This project is about quadrotor. Phase 1 contains detailed information about non-linear controller and flatteness, Dijkstra and A* implementation in 3D environment with obstacles, minimum jerk trajectory.  
+
+This project is implemented on [CrazyFile 2.0](https://www.bitcraze.io/crazyflie-2/), which is a palm sized quadrotor weighing 27 grams. It is controlled via radio and Bluetooth by the PC client  through [Crazyradio](https://www.bitcraze.io/crazyradio/). The position of quadrotor is tracked via reflective markers and infrared motion capture cameras Vicon, and angular velocity and acceleration are detected by IMU onboard. High-level commands like position control are computed by Python script on PC end, while low-level commands like attitude, motor control are computed onboard.
 
 The performance of quadrotor in phase 1 in real lab is shown as below.  
 **To be updated**
