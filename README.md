@@ -9,7 +9,7 @@ The performance of quadrotor in phase 1 in real lab is shown as below.
 **What's next?**  
 Perception, mapping and SLAM  
 
-To run this project on your local end, please make sure you have install the following package:  
+To run the simulation on your local end, please make sure you have install the following package:  
 * numpy
 * cvxopt
 * matplotlib
